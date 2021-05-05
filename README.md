@@ -4,3 +4,5 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
 [![Linter](https://github.com/OlegArtemiev/frontend-project-lvl1/actions/workflows/eslit.yml/badge.svg)](https://github.com/OlegArtemiev/frontend-project-lvl1/actions/workflows/eslit.yml)
+
+How to play brain-even example: https://asciinema.org/a/lkCQ8rJx2QqeOGwlrcijtnKbs
