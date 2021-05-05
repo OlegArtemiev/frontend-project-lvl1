@@ -5,4 +5,7 @@
 
 [![Linter](https://github.com/OlegArtemiev/frontend-project-lvl1/actions/workflows/eslit.yml/badge.svg)](https://github.com/OlegArtemiev/frontend-project-lvl1/actions/workflows/eslit.yml)
 
-How to play brain-even example: https://asciinema.org/a/lkCQ8rJx2QqeOGwlrcijtnKbs
+**"Проверка на чётность"**
+
+Суть игры в следующем: пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное: 
+[![asciicast](https://asciinema.org/a/lkCQ8rJx2QqeOGwlrcijtnKbs.svg)](https://asciinema.org/a/lkCQ8rJx2QqeOGwlrcijtnKbs)
