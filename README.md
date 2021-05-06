@@ -24,3 +24,6 @@
 **"Арифметическая прогрессия"**
 Показываем игроку ряд чисел, образующий арифметическую прогрессию, заменив любое из чисел двумя точками. Игрок должен определить это число.
 [![asciicast](https://asciinema.org/a/HwlpBaNtwoNUVsqHS1YX1zLsG.svg)](https://asciinema.org/a/HwlpBaNtwoNUVsqHS1YX1zLsG)
+
+**"Простое ли число?"**
+[![asciicast](https://asciinema.org/a/b9OcepxsJfSK0TkfKNIgdHTif.svg)](https://asciinema.org/a/b9OcepxsJfSK0TkfKNIgdHTif)
