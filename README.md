@@ -9,3 +9,7 @@
 
 Суть игры в следующем: пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное: 
 [![asciicast](https://asciinema.org/a/lkCQ8rJx2QqeOGwlrcijtnKbs.svg)](https://asciinema.org/a/lkCQ8rJx2QqeOGwlrcijtnKbs)
+
+**"Калькулятор"**
+Суть игры в следующем: пользователю показывается случайное математическое выражение, например 35 + 16, которое нужно вычислить и записать правильный ответ.
+[![asciicast](https://asciinema.org/a/17BH97ffOjuws3igemzyFVZod.svg)](https://asciinema.org/a/17BH97ffOjuws3igemzyFVZod)
