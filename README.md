@@ -20,3 +20,7 @@
 **"НОД"**
 Суть игры в следующем: пользователю показывается два случайных числа, например, 25 50. Пользователь должен вычислить и ввести наибольший общий делитель этих чисел.
 [![asciicast](https://asciinema.org/a/jvqRBsTxwKpW0u1iMC0uPLB9U.svg)](https://asciinema.org/a/jvqRBsTxwKpW0u1iMC0uPLB9U)
+
+**"Арифметическая прогрессия"**
+Показываем игроку ряд чисел, образующий арифметическую прогрессию, заменив любое из чисел двумя точками. Игрок должен определить это число.
+[![asciicast](https://asciinema.org/a/HwlpBaNtwoNUVsqHS1YX1zLsG.svg)](https://asciinema.org/a/HwlpBaNtwoNUVsqHS1YX1zLsG)
