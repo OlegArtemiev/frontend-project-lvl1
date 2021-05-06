@@ -5,6 +5,9 @@
 
 [![Linter](https://github.com/OlegArtemiev/frontend-project-lvl1/actions/workflows/eslit.yml/badge.svg)](https://github.com/OlegArtemiev/frontend-project-lvl1/actions/workflows/eslit.yml)
 
+
+Игры разума
+
 **"Проверка на чётность"**
 
 Суть игры в следующем: пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное: 
@@ -13,3 +16,7 @@
 **"Калькулятор"**
 Суть игры в следующем: пользователю показывается случайное математическое выражение, например 35 + 16, которое нужно вычислить и записать правильный ответ.
 [![asciicast](https://asciinema.org/a/17BH97ffOjuws3igemzyFVZod.svg)](https://asciinema.org/a/17BH97ffOjuws3igemzyFVZod)
+
+**"НОД"**
+Суть игры в следующем: пользователю показывается два случайных числа, например, 25 50. Пользователь должен вычислить и ввести наибольший общий делитель этих чисел.
+[![asciicast](https://asciinema.org/a/jvqRBsTxwKpW0u1iMC0uPLB9U.svg)](https://asciinema.org/a/jvqRBsTxwKpW0u1iMC0uPLB9U)
